@@ -3,7 +3,8 @@
 #Googlecolab link: https://colab.research.google.com/drive/1OyrKDTMz3vTNlrrWPmu0dbtMC5jOTuMM?usp=sharing
 
 
-## PART 3: Re-evaluate the Improved Model
+## PART 3: Re-evaluate the Improved Model: https://drive.google.com/file/d/17rv6bdvQlOvMZUBrFCiTDS-Cm1u_AWMD/view?usp=sharing
+
 ##### Answer: The CNN model demonstrated improved overall performance after applying the improvements like Data Augmentation, Batch Normalization, Dropout, Learning Rate Optimization and Early Stopping. A higher Precision, Recall and F1-score were observed in the classification report, thus the model was more accurate and had less misclassifications. The ROC Curve and AUC Score also depicted better classification results without a risk of overfitting.
 
 ## PART 4: Compare Results (Before vs After)
